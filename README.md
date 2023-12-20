@@ -7,7 +7,7 @@ Build the ultimate brick-busting machine to destroy billions of bricks. Idle bre
 
 Want to join the action?
 
-[Click here to start playing!]([https://3kh0.github.io/idle-breakout/](https://sobloxsy.com/playgame.html?id=7))
+[Click here to start playing!](https://sobloxsy.com/playgame.html?id=7)
 
 ## Import code generator
 Yes you saw that right! This has a built in import code generator to boost progress!<br>
@@ -25,4 +25,4 @@ Here are some screenshots if you are not conviced this game is great!
 ### This is what you get to:
 ![Screenshot 2021-11-05 2 28 34 PM](https://user-images.githubusercontent.com/58097612/140563564-b56f2a84-81a3-487d-87b7-e72f3fc544f8.png)
 
-[Why are you not playing yet?]([https://3kh0.github.io/idle-breakout/](https://sobloxsy.com/playgame.html?id=7)https://sobloxsy.com/playgame.html?id=7)
+[Why are you not playing yet?](https://sobloxsy.com/playgame.html?id=7)
